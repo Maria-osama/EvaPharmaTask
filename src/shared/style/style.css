@@ -1,0 +1,19 @@
+.login-box{
+    margin-top: 20%;
+    border: 1px solid #17631b;
+    padding: 20px;
+    border-radius: 10px;
+}
+.head{
+    margin: 50px 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+.logout , .back{
+    background-color: indianred;
+    color: #fff;
+    padding: 7px;
+}
+.back {
+    background-color: rgb(111, 111, 172);
+}
